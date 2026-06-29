@@ -9,9 +9,3 @@ recently to Sui Move as well. Always on the lookout for the next big yield oppor
 * SUI based SDKs and Move
 * HTML/CSS/TS/JS
 * Web3 and Blockchain Research
-
-### Let's Connect
-I am always open to collaborating on new projects and discussing the latest advancements in the blockchain industry. If you would like to connect with me, feel free to reach out via:  
-
-* [Telegram](https://t.me/NeroSensei)
-* [Twitter](https://x.com/nero__sensei) 
