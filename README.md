@@ -1,6 +1,6 @@
 # hey, i'm nero 👋
 
-I've been investing and trading in DeFi since 2021. Using these protocols every day is the reason I build on them. You see where things are clunky, where money gets left on the table, and which mechanics are actually interesting once you dig into how they work.
+I've been investing and trading in DeFi since 2021, and that's a big part of why I like building on it. When you're in it every day you start noticing where things are clunky, where money is being left on the table, and which mechanics are actually interesting.
 
 Most of what I write for myself is trading bots. Funding rate arb and delta-neutral setups across a bunch of perp dexes, Polymarket bots that arb mispriced markets or provide liquidity, launch execution on Solana, and whatever new venue or mechanic catches my eye. They run live, so that code stays private.
 
