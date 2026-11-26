@@ -1,11 +1,16 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&weight=600&size=45&duration=3000&color=7286D3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nero+%F0%9F%91%8B"/></a></p>
+# hey, i'm nero 👋
 
-I strive by building for the user as a user. I am a passionate and seasoned DeFi developer and investor with a deep-rooted enthusiasm. I love the tech behind DeFi, my technical expertise spans from EVM to Solana and
-recently to Sui Move as well. Always on the lookout for the next big yield opportunity, I blend hands-on development experience with strategic investment insights to drive forward-thinking solutions in the DeFi space.
+I've been investing and trading in DeFi since 2021, mostly on Solana. Using these protocols every day is the reason I build on them. You see where things are clunky, where money gets left on the table, and which mechanics are actually interesting once you dig into how they work.
 
-### My Skills
-* Solana based SDKs and Rust
-* EVM based SDKs and Solidity
-* SUI based SDKs and Move
-* HTML/CSS/TS/JS
-* Web3 and Blockchain Research
+Most of what I write for myself is trading bots. Funding rate arb and delta-neutral setups across a bunch of perp dexes, Polymarket bots that arb mispriced markets or provide liquidity, launch execution on Solana, and whatever new venue or mechanic catches my eye. They run live, so that code stays private.
+
+Right now I'm a software engineer at [Elfa](https://elfa.ai). I've worked on the API, billing and payments (x402, Stripe), the MCP and SDKs agents use to pull crypto data, and earlier the Hyperliquid and GMX trading backend. Before that I did Solana work at ISC (market making infra, the Prospera points system) and wrote the contracts for ZNS Connect.
+
+Some things here:
+- [cctp-reclaim](https://github.com/nero-sensei/cctp-reclaim): Circle's CCTP leaves a refundable SOL deposit behind on Solana for every transfer. This finds yours and gets it back.
+- [endline](https://github.com/part-time-small-brain/endline): crosschain crypto options, fully backed in USDC, settled on NEAR Intents
+- [ClaudeBar](https://github.com/nero-sensei/ClaudeBar): menu bar app that tracks Claude, Codex and Gemini usage limits
+
+I mostly write TypeScript, Solidity, Rust and Python, across EVM, Solana and Sui.
+
+Find me on X at [@nero__sensei](https://x.com/nero__sensei).
